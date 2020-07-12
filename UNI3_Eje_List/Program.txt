@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace UNI3_Eje_List
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+	        List<string> personasEncuestadas = new List<string>();
+
+	        string nombreEncuestado;
+	        char sigue = 'S';
+
+            while(sigue.ToString().ToUpper().Equals("S"))
+            {
+                Console.WriteLine("Ingrese el nombre del encuestado:");
+                nombreEncuestado = Console.ReadLine();
+
+                // Declaro una instancia de un objeto List...
+                personasEncuestadas.Add(nombreEncuestado);
+
+                //
+                Console.WriteLine("Presione S para seguir, otra tecla para terminar");
+                sigue = char.Parse(Console.ReadLine());
+            }
+            // recorro la ....
+            if(personasEncuestadas.Count > 0)
+            {
+                Console.WriteLine($"Se encuestaron {personasEncuestadas.Count} personas.");
+                for (int i = 0; i < personasEncuestadas.Count; i++)
+                {
+                    // al igual que ....
+                    // por esto ...
+                    Console.WriteLine($"Encuestado N°: {i+1} {personasEncuestadas[i].ToString()}");
+                }
+            }
+            Console.WriteLine("Fin del programa.");
+            Console.ReadKey();
+        }
+    }
+}

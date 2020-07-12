@@ -1,0 +1,13 @@
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_ClaseAbstracta/obj/Debug/netcoreapp3.1/UNI3_Ejer_ClaseAbstracta.csprojAssemblyReference.cache
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_ClaseAbstracta/obj/Debug/netcoreapp3.1/UNI3_Ejer_ClaseAbstracta.csproj.CoreCompileInputs.cache
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_ClaseAbstracta/obj/Debug/netcoreapp3.1/UNI3_Ejer_ClaseAbstracta.AssemblyInfoInputs.cache
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_ClaseAbstracta/obj/Debug/netcoreapp3.1/UNI3_Ejer_ClaseAbstracta.AssemblyInfo.cs
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_ClaseAbstracta/bin/Debug/netcoreapp3.1/UNI3_Ejer_ClaseAbstracta
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_ClaseAbstracta/bin/Debug/netcoreapp3.1/UNI3_Ejer_ClaseAbstracta.deps.json
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_ClaseAbstracta/bin/Debug/netcoreapp3.1/UNI3_Ejer_ClaseAbstracta.runtimeconfig.json
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_ClaseAbstracta/bin/Debug/netcoreapp3.1/UNI3_Ejer_ClaseAbstracta.runtimeconfig.dev.json
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_ClaseAbstracta/bin/Debug/netcoreapp3.1/UNI3_Ejer_ClaseAbstracta.dll
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_ClaseAbstracta/bin/Debug/netcoreapp3.1/UNI3_Ejer_ClaseAbstracta.pdb
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_ClaseAbstracta/obj/Debug/netcoreapp3.1/UNI3_Ejer_ClaseAbstracta.dll
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_ClaseAbstracta/obj/Debug/netcoreapp3.1/UNI3_Ejer_ClaseAbstracta.pdb
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_ClaseAbstracta/obj/Debug/netcoreapp3.1/UNI3_Ejer_ClaseAbstracta.genruntimeconfig.cache

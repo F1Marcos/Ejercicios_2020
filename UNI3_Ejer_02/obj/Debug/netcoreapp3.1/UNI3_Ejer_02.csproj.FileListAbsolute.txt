@@ -1,0 +1,13 @@
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_02/bin/Debug/netcoreapp3.1/UNI3_Ejer_02
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_02/bin/Debug/netcoreapp3.1/UNI3_Ejer_02.deps.json
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_02/bin/Debug/netcoreapp3.1/UNI3_Ejer_02.runtimeconfig.json
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_02/bin/Debug/netcoreapp3.1/UNI3_Ejer_02.runtimeconfig.dev.json
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_02/bin/Debug/netcoreapp3.1/UNI3_Ejer_02.dll
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_02/bin/Debug/netcoreapp3.1/UNI3_Ejer_02.pdb
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_02/obj/Debug/netcoreapp3.1/UNI3_Ejer_02.csprojAssemblyReference.cache
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_02/obj/Debug/netcoreapp3.1/UNI3_Ejer_02.csproj.CoreCompileInputs.cache
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_02/obj/Debug/netcoreapp3.1/UNI3_Ejer_02.AssemblyInfoInputs.cache
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_02/obj/Debug/netcoreapp3.1/UNI3_Ejer_02.AssemblyInfo.cs
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_02/obj/Debug/netcoreapp3.1/UNI3_Ejer_02.dll
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_02/obj/Debug/netcoreapp3.1/UNI3_Ejer_02.pdb
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/UNI3_Ejer_02/obj/Debug/netcoreapp3.1/UNI3_Ejer_02.genruntimeconfig.cache

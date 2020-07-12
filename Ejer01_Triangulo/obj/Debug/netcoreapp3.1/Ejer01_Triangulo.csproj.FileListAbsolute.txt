@@ -1,0 +1,13 @@
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/Ejer01_Triangulo/bin/Debug/netcoreapp3.1/Ejer01_Triangulo
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/Ejer01_Triangulo/bin/Debug/netcoreapp3.1/Ejer01_Triangulo.deps.json
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/Ejer01_Triangulo/bin/Debug/netcoreapp3.1/Ejer01_Triangulo.runtimeconfig.json
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/Ejer01_Triangulo/bin/Debug/netcoreapp3.1/Ejer01_Triangulo.runtimeconfig.dev.json
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/Ejer01_Triangulo/bin/Debug/netcoreapp3.1/Ejer01_Triangulo.dll
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/Ejer01_Triangulo/bin/Debug/netcoreapp3.1/Ejer01_Triangulo.pdb
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/Ejer01_Triangulo/obj/Debug/netcoreapp3.1/Ejer01_Triangulo.csprojAssemblyReference.cache
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/Ejer01_Triangulo/obj/Debug/netcoreapp3.1/Ejer01_Triangulo.csproj.CoreCompileInputs.cache
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/Ejer01_Triangulo/obj/Debug/netcoreapp3.1/Ejer01_Triangulo.AssemblyInfoInputs.cache
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/Ejer01_Triangulo/obj/Debug/netcoreapp3.1/Ejer01_Triangulo.AssemblyInfo.cs
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/Ejer01_Triangulo/obj/Debug/netcoreapp3.1/Ejer01_Triangulo.dll
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/Ejer01_Triangulo/obj/Debug/netcoreapp3.1/Ejer01_Triangulo.pdb
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Ejercicios_2020/Ejer01_Triangulo/obj/Debug/netcoreapp3.1/Ejer01_Triangulo.genruntimeconfig.cache

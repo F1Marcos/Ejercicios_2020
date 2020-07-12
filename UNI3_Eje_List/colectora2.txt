@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+namespace UNI3_Eje_List
+{
+    class colectora2
+    {
+        static void Main(string[] args)
+        {
+            // Declaro una instancia...
+            List<string> personasEncuestadas = new List<string>{"Martin","Eduardo","Tejerina","Orsini"};
+
+            // recorro la lista y ...
+            if (personasEncuestadas.Count > 0)
+            {
+                Console.WriteLine($"Se encuestaron {personasEncuestadas} personas.");
+                int i=1;
+                foreach (string nombreEncuestado in personasEncuestadas)
+                {
+                    Console.WriteLine($"Encuestado N°: {i++} {nombreEncuestado}");
+                    // Console.WriteLine($"Encu....)
+                }
+            }
+            Console.WriteLine("Fin del programa");
+            Console.ReadKey(true);
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Unidad5_RelacionDeClases/1.0.0": {
+        "runtime": {
+          "Unidad5_RelacionDeClases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unidad5_RelacionDeClases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

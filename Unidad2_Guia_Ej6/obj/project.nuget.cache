@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zW/O586xqovMKM/XZCqWkTb6X+G82Qhlu7wQG9mBASeilzicRRfIBG8J4GZKCYgeSJVxxOG9zaAC0pGt/IySdA==",
+  "success": true,
+  "projectFilePath": "/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Unidad2_Guia_Ej6/Unidad2_Guia_Ej6.csproj",
+  "expectedPackageFiles": [
+    "/home/mquispe/.nuget/packages/microsoft.netcore.app/2.0.0/microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "/home/mquispe/.nuget/packages/microsoft.netcore.dotnetapphost/2.0.0/microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "/home/mquispe/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.0.0/microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "/home/mquispe/.nuget/packages/microsoft.netcore.dotnethostresolver/2.0.0/microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "/home/mquispe/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/home/mquispe/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

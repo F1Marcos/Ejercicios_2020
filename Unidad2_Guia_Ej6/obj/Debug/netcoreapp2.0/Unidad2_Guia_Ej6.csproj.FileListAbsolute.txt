@@ -1,0 +1,12 @@
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Unidad2_Guia_Ej6/bin/Debug/netcoreapp2.0/Unidad2_Guia_Ej6.deps.json
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Unidad2_Guia_Ej6/bin/Debug/netcoreapp2.0/Unidad2_Guia_Ej6.runtimeconfig.json
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Unidad2_Guia_Ej6/bin/Debug/netcoreapp2.0/Unidad2_Guia_Ej6.runtimeconfig.dev.json
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Unidad2_Guia_Ej6/bin/Debug/netcoreapp2.0/Unidad2_Guia_Ej6.dll
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Unidad2_Guia_Ej6/bin/Debug/netcoreapp2.0/Unidad2_Guia_Ej6.pdb
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Unidad2_Guia_Ej6/obj/Debug/netcoreapp2.0/Unidad2_Guia_Ej6.csprojAssemblyReference.cache
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Unidad2_Guia_Ej6/obj/Debug/netcoreapp2.0/Unidad2_Guia_Ej6.csproj.CoreCompileInputs.cache
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Unidad2_Guia_Ej6/obj/Debug/netcoreapp2.0/Unidad2_Guia_Ej6.AssemblyInfoInputs.cache
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Unidad2_Guia_Ej6/obj/Debug/netcoreapp2.0/Unidad2_Guia_Ej6.AssemblyInfo.cs
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Unidad2_Guia_Ej6/obj/Debug/netcoreapp2.0/Unidad2_Guia_Ej6.dll
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Unidad2_Guia_Ej6/obj/Debug/netcoreapp2.0/Unidad2_Guia_Ej6.pdb
+/home/mquispe/DATA/PERSONAL/IFTS11/2_AÑO/Programacion_aplicada/Unidad2_Guia_Ej6/obj/Debug/netcoreapp2.0/Unidad2_Guia_Ej6.genruntimeconfig.cache
